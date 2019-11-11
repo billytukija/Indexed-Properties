@@ -1,0 +1,11 @@
+C:\Users\billy.richard\Documents\GitHub\IndexedProprieties\IndexedProprieties\bin\Debug\netcoreapp3.0\IndexedProprieties.exe
+C:\Users\billy.richard\Documents\GitHub\IndexedProprieties\IndexedProprieties\bin\Debug\netcoreapp3.0\IndexedProprieties.deps.json
+C:\Users\billy.richard\Documents\GitHub\IndexedProprieties\IndexedProprieties\bin\Debug\netcoreapp3.0\IndexedProprieties.runtimeconfig.json
+C:\Users\billy.richard\Documents\GitHub\IndexedProprieties\IndexedProprieties\bin\Debug\netcoreapp3.0\IndexedProprieties.runtimeconfig.dev.json
+C:\Users\billy.richard\Documents\GitHub\IndexedProprieties\IndexedProprieties\bin\Debug\netcoreapp3.0\IndexedProprieties.dll
+C:\Users\billy.richard\Documents\GitHub\IndexedProprieties\IndexedProprieties\bin\Debug\netcoreapp3.0\IndexedProprieties.pdb
+C:\Users\billy.richard\Documents\GitHub\IndexedProprieties\IndexedProprieties\obj\Debug\netcoreapp3.0\IndexedProprieties.csprojAssemblyReference.cache
+C:\Users\billy.richard\Documents\GitHub\IndexedProprieties\IndexedProprieties\obj\Debug\netcoreapp3.0\IndexedProprieties.AssemblyInfoInputs.cache
+C:\Users\billy.richard\Documents\GitHub\IndexedProprieties\IndexedProprieties\obj\Debug\netcoreapp3.0\IndexedProprieties.AssemblyInfo.cs
+C:\Users\billy.richard\Documents\GitHub\IndexedProprieties\IndexedProprieties\obj\Debug\netcoreapp3.0\IndexedProprieties.dll
+C:\Users\billy.richard\Documents\GitHub\IndexedProprieties\IndexedProprieties\obj\Debug\netcoreapp3.0\IndexedProprieties.pdb
